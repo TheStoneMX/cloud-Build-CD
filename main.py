@@ -1,6 +1,3 @@
-# Service account
-# 926027561366@cloudbuild.gserviceaccount.com
-
 from google.cloud import bigquery
 from flask import Flask, request, jsonify
 import os
